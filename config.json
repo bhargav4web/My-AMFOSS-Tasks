@@ -1,0 +1,7 @@
+{
+	"Message" :	{
+		"Header" 	: "Hi",
+		"Body"		: "Here's the link to the next task - keep going :)",
+		"URL"		: "https://www.hackerrank.com/amfoss-freshers-test",		
+	}
+}
